@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "eslint": "^6.6.0",
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^2.0.0",
+    "xlsx": "^0.15.1"
   },
   "devDependencies": {},
   "scripts": {
